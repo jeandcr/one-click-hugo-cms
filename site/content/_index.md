@@ -1,20 +1,39 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: jeandcr
+subtitle: coding and other ingenious pleasures of life
+image: /img/header.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Who?
+  text: >-
+    My name Jean-Daniel, and i live in Copenhagen.
+
+    I can help you with building your online portfolio, webshop, business logic
+    or any other similar digital projects. I work at a information technology
+    and service company called JourneyXP.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What?
+  text: >-
+    I offer guidance and code – usually bundled together to suit your specific
+    digital task.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/coffee.jpg
+    text: >-
+      Usually people seek my services with a specific framework and language in
+      mind. Often people are unaware of other clever ways of solving this
+      without binding your project to a specific framework or language. Let's
+      grab a coffee and discuss your ideas!
+  - image: /img/code.jpg
+    text: >-
+      I have years of experience in developing digital solutions in many
+      different frameworks and languages. My current favorite development stack
+      is JAM Stack. If you already aware of a specific task you would like to
+      endulge me in, feel free to contact me about the specifics.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Why?
+  text: >-
+    The reason why i code is very simple – it's great fun. Along with being a
+    amusing time consuming friend, coding also gives me the opportunity to meet
+    a diverse range of people, and i get to help people fulfill their ambitions
+    online.
 ---
 
